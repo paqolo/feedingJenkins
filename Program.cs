@@ -18,12 +18,12 @@ namespace check1
             if (i % 2 == 0)
             {
                 Console.Write("Entered Number is an Even Number");
-                Console.Read();
+                Console.Readz();
             }
             else
             {
                 Console.Write("Entered Number is an Odd Number");
-                Console.Read();
+                Console.Readz();
             }
         }
     }
